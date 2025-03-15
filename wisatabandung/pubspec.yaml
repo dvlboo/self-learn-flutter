@@ -16,4 +16,18 @@ dev_dependencies:
   flutter_lints: ^5.0.0
 
 flutter:
+
   uses-material-design: true
+
+  assets:
+    - assets/images/
+
+  fonts:
+    - family: Oxygen
+      fonts:
+        - asset: assets/fonts/Oxygen/Oxygen-Regular.ttf
+    
+    - family: Staatliches
+      fonts:
+        - asset: assets/fonts/Staatliches/Staatliches-Regular.ttf
+
